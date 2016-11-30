@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_profile.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_profile.png"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_home.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_shopping_cart.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_motorcycle.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_motorcycle.png"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_touch_app.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_touch_app.png"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_logout.png",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logout.png"
+    }
+]

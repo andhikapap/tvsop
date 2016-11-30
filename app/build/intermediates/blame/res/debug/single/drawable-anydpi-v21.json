@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_logout.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_motorcycle.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_motorcycle.xml"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_touch_app.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_touch_app.xml"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_profile.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_profile.xml"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_home.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\PI\\Parts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_shopping_cart.xml",
+        "source": "E:\\PI\\Parts\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping_cart.xml"
+    }
+]
